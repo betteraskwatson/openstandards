@@ -1,2 +1,2 @@
-# openstandards
+# Open for Ideas
 Public Forum
